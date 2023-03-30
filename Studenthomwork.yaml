@@ -1,0 +1,26 @@
+Student:
+  PersonalID: 3456rty
+  Name: Kurt
+  Surname: Kobain
+  Age: '27'
+  Personal_email: KK27@gmail.com
+  isPhone_numbers: yes
+  PnoneNumber:
+    - "000-000-00"
+    - 111-111-11
+  PersonalAdress:
+    Country: USA
+    State: LA
+    City: Los-Angeles
+    ZIP: 7733
+  Lessons:
+    - LessonsName: Nature Since
+      LectorInfo:
+        LectorName: Bill
+        LectorSurname: Myrray
+      Points: null
+    - LessonsName:
+        - Biology
+        - Math
+      LectorInfo: Bruce Lee
+      Points: 5

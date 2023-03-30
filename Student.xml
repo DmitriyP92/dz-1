@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Student>
+	<PersonalID>3456rty</PersonalID>
+	<Name>Kurt</Name>
+	<Surname>Kobain</Surname>
+	<Age>27</Age>
+	<Personal_email>KK27@gmail.com</Personal_email>
+	<isPhone_numbers>1</isPhone_numbers>
+	<PnoneNumber>000-000-00</PnoneNumber>
+	<PnoneNumber>111-111-11</PnoneNumber>
+	<PersonalAdress>
+		<Country>USA</Country>
+		<State>LA</State>
+		<City>Los-Angeles</City>
+		<ZIP>7733</ZIP>
+	</PersonalAdress>
+	<Lessons>
+		<LessonsName>Nature Since</LessonsName>
+		<LectorInfo>
+			<LectorName>Bill</LectorName>
+			<LectorSurname>Myrray</LectorSurname>
+		</LectorInfo>
+		<Points />
+	</Lessons>
+	<Lessons>
+		<LessonsName ="Biology, Math"/>
+		<LectorInfo>Bruce Lee</LectorInfo>
+		<Points>5</Points>
+	</Lessons>
+</Student>
+</xml>
